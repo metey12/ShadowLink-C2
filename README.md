@@ -26,7 +26,7 @@ ShadowLink, eğitim amaçlı geliştirilmiş web tabanlı bir **Command & Contro
 
 ## 🛠️ Teknoloji Yığını
 
-* **Backend:** ASP.NET Core 8.0, SignalR (WebSockets)
+* **Backend:** ASP.NET Core, SignalR (WebSockets)
 * **Agent:** .NET Worker Service, System.Diagnostics, WinAPI
 * **Frontend:** React (Vite), Recharts, Lucide Icons
 * **İletişim:** Çift yönlü SignalR Hub
