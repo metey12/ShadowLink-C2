@@ -7,6 +7,9 @@ ShadowLink, eğitim amaçlı geliştirilmiş web tabanlı bir **Command & Contro
 
 ## 🚀 Özellikler
 
+<img width="2483" height="1036" alt="image" src="https://github.com/user-attachments/assets/3c10f3e4-d450-45ee-b861-3a12b2578883" />
+
+
 ### 📡 Gerçek Zamanlı İzleme
 - **Canlı Kalp Atışı:** WebSocket üzerinden anlık CPU kullanım takibi.
 - **Matrix Dashboard:** Cyberpunk temalı arayüz ve canlı akan grafikler.
