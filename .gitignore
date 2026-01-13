@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+[Dd]ebug/
+[Rr]elease/
+appsettings.json
+appsettings.Development.json
+
+node_modules/
+dist/
+build/
+.env
+.DS_Store
